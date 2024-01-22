@@ -11,9 +11,7 @@ body{
     background-color: white;
 }
 .qr-code-image{
-    /* position: absolute;
-    top: 2%;
-    left: 10%; */
+    
     display:flex;
     height: auto;
     width: auto;
@@ -27,17 +25,11 @@ body{
     height: 280px;
     width: 290px;
     border-radius: 1rem;
-    /* position: absolute;
-    top: 2%;
-    left: 10%; */
     margin: auto;
     
 }
 .text{
-    /* position: absolute;
-    top: 60%;
-    left:15%;
-    right:15%; */
+   
     margin-top: 5%;
     
 }
